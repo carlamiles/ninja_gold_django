@@ -1,0 +1,16 @@
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+}
+.place {
+    height: 220px;
+    width: 220px;
+    border: 2px solid black;
+    margin: 10px 30px;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+}
